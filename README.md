@@ -1,6 +1,6 @@
 # chaining_methods
 
->   #Objectives:
+>   # Objectives:
 >
 >   -Understand how to chain methods
 
