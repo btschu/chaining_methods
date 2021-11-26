@@ -34,4 +34,4 @@ The practice of having OOP return its own instance is pretty common and is done 
 
 # Tasks
 
-- [ ] Update your previous assignment so that each instance's methods are chained
+- [X] Update your previous assignment so that each instance's methods are chained
