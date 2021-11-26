@@ -1,8 +1,8 @@
 # chaining_methods
 
->   # Objectives:
->
->   - Understand how to chain methods
+# Objectives:
+
+- Understand how to chain methods
 
 In the last assignment, your code might have looked something like this:
 
