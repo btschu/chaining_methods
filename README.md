@@ -2,7 +2,7 @@
 
 >   # Objectives:
 >
->   -Understand how to chain methods
+>   - Understand how to chain methods
 
 In the last assignment, your code might have looked something like this:
 
